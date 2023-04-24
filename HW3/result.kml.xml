@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<gx:CascadingStyle kml:id="__managed_style_2F70997FB6289EC1E62A">
+		<Style>
+			<IconStyle>
+				<scale>1.44</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>12</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1FF660D865289EC1E62A">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>8</width>
+			</LineStyle>
+			<PolyStyle>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0ACCB65F01289EC1E62A">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FF660D865289EC1E62A</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F70997FB6289EC1E62A</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="z1">
+		<IconStyle>
+			<Icon>
+				<href>https://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark id="08A37537B6289EC1537F">
+		<name>SuGuo Supermarket</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8251847,30.9293659,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1529BAC92D289EC1537F">
+		<name>Botanical Garden</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8264124,30.9308217,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="2182F31EA3289EC1537F">
+		<name>Old Audit Bureau</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8250197,30.9308991,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3DAA6014F0289EC1537F">
+		<name>Hair Salon</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8235877,30.9311375,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0474B7B3D5289EC15380">
+		<name>Old House in Yangguang Community</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8206287,30.9294298,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="17DD11AD4A289EC15380">
+		<name>Jingcheng Hotpot</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8181531,30.9296119,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="28F4E0CDC8289EC15380">
+		<name>Yuya Restaurant</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8179032,30.9294488,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="3811C74A4B289EC15380">
+		<name>Wangjian Hair Salon</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8170142,30.926907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="4A4B8D8247289EC15380">
+		<name>Aimente Bakery</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8192175,30.9275877,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="5DC4308996289EC15380">
+		<name>Pharmacy</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8169507,30.9274439,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="637EBAA45F289EC15380">
+		<name>Foot Massage</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8187303,30.9271229,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="7A7802AECA289EC15380">
+		<name>Sanzi Courtyard</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8223145,30.9277855,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08FCD57BAD289EC15381">
+		<name>Home</name>
+		<styleUrl>#z1</styleUrl>
+		<Point>
+			<coordinates>117.8240267,30.9279862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="1ECC11EBC9289EC15381">
+		<name>My Polygon</name>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						117.8169507,30.9274439,0 117.8170142,30.926907,0 117.8187303,30.9271229,0 117.8240267,30.9279862,0 117.8264124,30.9308217,0 117.8235877,30.9311375,0 117.8181531,30.9296119,0 117.8179032,30.9294488,0 117.8169507,30.9274439,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="2BF1EF4D3A289EC15381">
+		<name>Line Section 1</name>
+		<styleUrl>#__managed_style_0ACCB65F01289EC1E62A</styleUrl>
+		<LineString>
+			<coordinates>
+				117.8240267,30.9279862,0 117.8223145,30.9277855,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="33D91EAD0F289EC15381">
+		<name>Line Section 2</name>
+		<styleUrl>#__managed_style_0ACCB65F01289EC1E62A</styleUrl>
+		<LineString>
+			<coordinates>
+				117.8240267,30.9279862,0 117.8251847,30.9293659,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="4279DD8E65289EC15381">
+		<name>Line Section 3</name>
+		<styleUrl>#__managed_style_0ACCB65F01289EC1E62A</styleUrl>
+		<LineString>
+			<coordinates>
+				117.8240267,30.9279862,0 117.8250197,30.9308991,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+	<Placemark id="529B943C85289EC15381">
+		<name>Line Section 4</name>
+		<styleUrl>#__managed_style_0ACCB65F01289EC1E62A</styleUrl>
+		<LineString>
+			<coordinates>
+				117.8240267,30.9279862,0 117.8235877,30.9311375,0 
+			</coordinates>
+		</LineString>
+	</Placemark>
+</Document>
+</kml>
